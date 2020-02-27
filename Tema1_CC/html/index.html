@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="../css/indexStyle.css">
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Cloud Computing - Tema 1 - Index</h1>
+<div class="parent">
+    <div class="service_2" id="service_2">
+        <h3>First web service to call</h3>
+        <div>
+          <form id="usrform2" method="post">
+            <textarea class="textArea" rows="4" cols="50" form="usrform2" id="usrform2Text"></textarea>
+            <input type="submit" onclick="get_service_info(2)" value="Submit">
+          </form>
+          <script src="../javascript/get_service_info.js"></script>
+        </div>
+    </div>
+     <div class="service_1" id="service_1">
+        <h3>Second web service to call</h3>
+       <div>
+          <form id="usrform1" method="post">
+            <textarea class="textArea" rows="4" cols="50" form="usrform1" id="usrform1Text"></textarea>
+            <input type="submit" onclick="get_service_info(1)" value="Submit">
+          </form>
+        </div>
+    </div>
+</div>
+</body>
+</html>
