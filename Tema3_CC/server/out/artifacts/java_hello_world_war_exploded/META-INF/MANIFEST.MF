@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Tomy
+Build-Jdk: 11.0.5
+Implementation-Title: Cloud Code Hello World
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: org.springframework.boot
+Main-Class: ${start-class}
+

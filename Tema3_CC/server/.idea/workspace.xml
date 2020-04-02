@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="java-hello-world:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19ac5368-fabd-40f0-a1ca-46871270dcc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ZtV6RGhgHCt6wY9DeuT1Kd2idH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ACTIVE_CLOUD_PROJECT_ACCOUNT" value="toma.florin.ungureanu@gmail.com" />
+    <property name="ACTIVE_CLOUD_PROJECT_ID" value="helloworld-271614" />
+    <property name="ACTIVE_CLOUD_PROJECT_NAME" value="HelloWorld" />
+    <property name="ACTIVE_CLOUD_PROJECT_NUMBER" value="700477593324" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../client" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Cloud Code: Kubernetes.Run on Kubernetes">
+    <configuration name="ServerApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="java-hello-world" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cloudcode.helloworld.ServerApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Develop on Kubernetes" type="google-container-tools-skaffold-run-config" factoryName="google-container-tools-skaffold-run-config-dev" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="cleanupDeployments" value="true" />
+      <option name="envVariables" />
+      <option name="imageRepositoryOverride" value="eu.gcr.io/helloworld-271614/container" />
+      <option name="kubeconfigFile" />
+      <option name="kubernetesContext" />
+      <option name="redeployOnChanges" value="true" />
+      <option name="skaffoldConfigurationFilePath" value="$PROJECT_DIR$/skaffold.yaml" />
+      <option name="skaffoldNamespace" />
+      <option name="skaffoldProfile" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run on Kubernetes" type="google-container-tools-skaffold-run-config" factoryName="google-container-tools-skaffold-run-config-dev" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="cleanupDeployments" value="true" />
+      <option name="envVariables" />
+      <option name="imageRepositoryOverride" value="eu.gcr.io/helloworld-271614/container" />
+      <option name="kubeconfigFile" />
+      <option name="kubernetesContext" />
+      <option name="redeployOnChanges" value="false" />
+      <option name="skaffoldConfigurationFilePath" value="$PROJECT_DIR$/skaffold.yaml" />
+      <option name="skaffoldNamespace" />
+      <option name="skaffoldProfile" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Cloud Code: Kubernetes.Develop on Kubernetes" />
+      <item itemvalue="Cloud Code: Kubernetes.Run on Kubernetes" />
+      <item itemvalue="Spring Boot.ServerApp" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.15505464" />
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19ac5368-fabd-40f0-a1ca-46871270dcc8" name="Default Changelist" comment="" />
+      <created>1585658202097</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585658202097</updated>
+      <workItem from="1585658206112" duration="9000" />
+      <workItem from="1585658215379" duration="836000" />
+      <workItem from="1585659392409" duration="9331000" />
+      <workItem from="1585747771726" duration="315000" />
+      <workItem from="1585815686689" duration="1730000" />
+      <workItem from="1585817763538" duration="8289000" />
+      <workItem from="1585830850341" duration="1964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Docker" timestamp="1585659667175">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Docker/0.0.1536.824@0.0.1536.824" timestamp="1585659667175" />
+    <state x="496" y="26" key="#Dockerfile" timestamp="1585659669527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="26" key="#Dockerfile/0.0.1536.824@0.0.1536.824" timestamp="1585659669527" />
+    <state x="361" y="71" key="#Google_App_Engine" timestamp="1585673536431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Google_App_Engine/0.0.1536.824@0.0.1536.824" timestamp="1585673536431" />
+    <state x="479" y="142" width="592" height="555" key="#Google_App_Engine_Deployment" timestamp="1585662893272">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="142" width="592" height="555" key="#Google_App_Engine_Deployment/0.0.1536.824@0.0.1536.824" timestamp="1585662893272" />
+    <state x="361" y="71" key="#Project_Structure" timestamp="1585658334723">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1585658334723" />
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585831198090">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="68" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585831198090" />
+    <state x="523" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585658551874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="523" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585658551874" />
+    <state x="400" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1585817809328">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="400" y="102" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1585817809328" />
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1585832556316">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585832556316" />
+    <state width="1493" height="307" key="GridCell.Tab.0.bottom" timestamp="1585829771453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="307" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585829771453" />
+    <state width="1493" height="307" key="GridCell.Tab.0.center" timestamp="1585829771453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="307" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585829771453" />
+    <state width="1493" height="307" key="GridCell.Tab.0.left" timestamp="1585829771452">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="307" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585829771452" />
+    <state width="1493" height="307" key="GridCell.Tab.0.right" timestamp="1585829771453">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="307" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585829771453" />
+    <state x="349" y="156" key="IDE.errors.dialog" timestamp="1585816139365">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="156" key="IDE.errors.dialog/0.0.1536.824@0.0.1536.824" timestamp="1585816139365" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1585822593273">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1585822593273" />
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1585748075634">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585748075634" />
+  </component>
+</project>
